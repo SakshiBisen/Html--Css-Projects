@@ -1,0 +1,134 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+    background-color: aliceblue;
+   
+}
+.box{
+    height: 600px;
+    width: 240px;
+    border: 1px solid rgb(250, 244, 244);
+    padding-left: 30px;
+    align-items: center;
+    background-color: rgb(252, 250, 247);
+   
+    margin-left: 500px;
+    margin-top: 80px;
+    border-radius: 20px;
+}
+h3{
+    padding-top: 20px;
+}
+.card1{
+    height: 120px;
+    width: 180px;
+    border: 1px solid rgb(226, 221, 221);
+    padding: 10px;
+    margin-top: 10px; 
+    background-color: rgb(248, 245, 250);
+    border-radius: 10px;
+    
+}
+img{
+    height: 60px;
+    width: 60px;
+    border-radius: 10px;
+    
+}
+.info{
+    padding-left: 70px;
+    margin-top: -60px;
+}
+button{
+    margin-top: 20px;
+    margin-left: -20px;
+    height: 30px;
+    width: 90px;
+    border-radius: 40px;
+    color: aliceblue;
+    background-color: rgb(58, 15, 87);
+}
+.icon{
+    margin-top: -20px;
+    margin-left: -10px;
+    font-size: 0.8em;
+    color: aliceblue;
+}
+h5{
+    padding-top: 5px;
+    
+    font-weight: 100;
+}
+.card2 {
+    height: 120px;
+    width: 180px;
+    border: 1px solid rgb(226, 221, 221);
+      padding: 10px;
+    margin-top: 20px;
+    border-radius: 10px;
+    background-color: rgb(248, 245, 250);    
+}
+
+.card3 {
+    height: 120px;
+    width: 180px;
+    border: 1px solid rgb(226, 221, 221);
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 10px;
+    background-color: rgb(248, 245, 250);
+}
+.btn{
+    height: 50px;
+    border-radius: 10px;
+    width: 220px;
+    color: rgb(74, 27, 105);
+    background-color: aliceblue;
+    font-weight: 1000;
+    margin-top: 30px;
+}
+.box2{
+    height: 150px;
+    width: 300px;
+    border: 1px solid rgb(240, 234, 234);
+    background-color: rgb(252, 250, 247);
+  
+    padding-left: 30px;
+    margin-left: 1000px;
+    margin-top: -400px;
+    border-radius: 10px;
+     gap: 20px;
+    
+}
+h1{
+    margin-top: 10px;
+    color: rgb(74, 27, 105);
+}
+.contant{
+    margin-top: 10px;
+    display: flex;
+     justify-contant: space-between;
+}
+.contant:hover{
+        color: rgb(74, 27, 105);
+     background-color: aliceblue;
+}
+span{ 
+       border: 1px solid grey;
+       color: rgb(58, 15, 87) ;
+        background-color: white;
+        border-radius: 10px;
+        padding: 2px;
+        font-size: 9px;
+        font-weight: 900;
+        
+}
+span:hover{
+    color: rgb(74, 27, 105);
+    background-color: aliceblue;
+   
+}

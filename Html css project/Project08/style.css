@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html,body {
+    height: 100vh;
+    width: 100vw;
+    background-color: rgb(231, 231, 230);
+    color: rgb(14, 5, 97);
+}
+.box{
+    height: 400px;
+    width: 500px;
+    background-color: aliceblue;
+    padding-left: 30px;
+    padding-top: 20px;
+    margin-top: 200px;
+    margin-left: 220px;
+}
+img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    border-color: black;
+    padding-top: 10PX;
+}
+.info{
+    padding-left: 120px;
+    margin-top: -70PX;
+    line-height: 30px;
+}
+.input{
+    height: 50px;
+        width: 390px;
+     border: 1px solid rgb(14, 5, 97);
+    margin-top: 5px;
+     border-radius: 10px;
+     margin-left: 20px;
+
+}
+.pass{
+    margin-top: 20px;
+    padding-left: 20px;
+}
+.icon1{
+    padding-left: 20px;
+    padding-top: 10px;
+    font-size: 1.5em;
+}
+.btn{
+   height: 50px;
+   width: 120px;
+   border-radius: 10px;
+   
+    font-size: 18px;
+    font-weight: 400;
+    background-color:rgb(14, 5, 97)  ;
+    color: white;
+    font-weight: 1000;
+    margin-left: 270px;
+}
+.sec{
+    padding-left: 20px;
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 30px;
+    
+
+}       
+h5{
+    color:  rgb(14, 5, 97);
+    padding-top: 20px;
+}
+.pass{
+    padding-top: 20px;
+}
+.fa-circle{
+    font-size: 1.8em;
+    color: rgb(14, 5, 97);
+}
+ button{
+        height: 35px;
+         width: 70px;
+        padding-right: 20px;
+        border-radius: 40px;
+       border: 1px solid rgb(14, 5, 97);
+ }
+ .stay{
+    margin-top: -30px;
+    margin-left: 80px;
+ }
+ .con{
+    margin-top: -40px;
+ }

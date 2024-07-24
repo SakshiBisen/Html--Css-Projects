@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+}
+body{
+    height: 100vh;
+    width: 100vw;
+    background-color: black;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.body{
+    display: flex;
+    gap: 40px;
+}
+.box1{
+          height: 350px;
+        width: 300px;
+        background-color: rgb(28, 30, 31);
+        border: 10px solid grey;
+        border-radius: 20px;
+        justify-content: center;
+        align-items: center;
+        text-align: center;   
+        padding-top: 30px;
+}
+.box2{
+    height: 350px;
+        width: 300px;
+        background-color: rgb(28, 30, 31);
+        border: 10px solid grey;
+        border-radius: 20px;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        padding-top: 30px;
+}
+button:hover{
+        background-color: blueviolet;
+            color: rgb(241, 244, 247);       
+}
+.box3{
+    height: 350px;
+        width: 300px;
+        background-color: rgb(28, 30, 31);
+        border: 10px solid grey;
+        border-radius: 20px;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        padding-top: 30px;
+}
+h3{
+  font-size: 20px;
+}
+.box1:hover{
+    border-color: blueviolet;
+}
+h1{
+    padding-top: 10px;
+    font-size: 50px;
+}
+h4{
+    padding-top: 5px;
+    font-weight: 900px;
+}
+button{
+    padding: 10px;
+    background-color: rgb(28, 30, 31);
+    color: rgb(241, 244, 247);
+    border-color: rgb(92, 92, 216);
+    margin-top: 20px;
+    height: 40px;
+    width: 120px;
+    font-weight: 900;
+    border-radius: 9px;
+}
+hr{
+    margin-top: 30px;
+    color: black;
+    background-color: black;
+}
+.GB{
+    margin-top: 30px;
+    
+}
+.icon1{
+    margin-left: 60px;
+}
+h5{
+    margin-top: -20px;
+}
+p{
+
+    margin-top: -20px;
+}
+.fa-check{
+      padding-right: 200px;
+      padding-top: 10px;
+
+
+}

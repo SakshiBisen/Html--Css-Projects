@@ -1,0 +1,136 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+html,
+body {
+    background-color: rgb(245, 208, 231);
+}
+
+.news {
+    height: 170px;
+    width: 400px;
+    border: 1px solid white;
+    padding: 20px;
+    background-color: aliceblue;
+    border-radius: 20px;
+    margin-top: 400px;
+    margin-left: 800px;
+    box-shadow: 5px;
+}
+
+.note {
+    font-size: 30px;
+    font-weight: 900;
+}
+
+h5 {
+    margin-top: 10px;
+}
+
+input {
+    height: 40px;
+    width: 250px;
+    padding-left: 10px;
+    margin-top: 40px;
+    border-radius: 3px;
+    border: none;
+
+}
+
+button {
+    height: 39px;
+    width: 90px;
+    color: aliceblue;
+    background-color: rgb(248, 12, 142);
+    border-radius: 3px;
+    font-weight: 700;
+    border: none;
+
+}
+
+.info {
+    padding-left: 700px;
+    gap: none;
+}
+
+.follow {
+    margin-top: -520px;
+    margin-left: 400px;
+    display: grid;
+ grid-template-columns:  1fr 1fr 1fr 1fr;
+}
+
+a {
+    color: rgb(236, 7, 225);
+    line-height: 40px;
+    font-weight: bold;
+}
+
+.fa-solid {
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    border: 1px solid grey;
+    text-align: center;
+    font-size: 1.5em;
+    margin-top: 70px;
+    padding: 5px;
+}
+
+.fa-linkedin {
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    border: 1px solid grey;
+    text-align: center;
+    font-size: 1.5em;
+    margin-top: 70px;
+    padding: 5px;
+}
+
+.fa-instagram {
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    border: 1px solid grey;
+    text-align: center;
+    font-size: 1.5em;
+    margin-top: 70px;
+    padding: 5px;
+}
+
+.fa-twitter {
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    border: 1px solid grey;
+    text-align: center;
+    font-size: 1.5em;
+    margin-top: 5px;
+    padding: 5px;
+}
+
+.fa-github {
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    border: 1px solid grey;
+    text-align: center;
+    font-size: 1.5em;
+    margin-top: 5px;
+    padding: 5px;
+}
+
+.fa-facebook-f {
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    border: 1px solid grey;
+    text-align: center;
+    font-size: 1.5em;
+    margin-top: 5px;
+    padding: 5px;
+}

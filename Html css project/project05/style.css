@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html,body{
+    height: 100vh;
+    width: 100vw;
+}
+h3{
+      font-size: 25px;
+}
+button{
+    height: 50px;
+    width: 400px;
+    color: aliceblue;
+    background-color: rgb(47, 3, 88);
+    font-size: large;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.box{
+    height: 430px;
+    width:  400px;
+    border: 1px solid;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+    margin: 100px;
+    border-radius: 20px;
+}
+.fa-solid{
+    margin-left: -120px;
+    font-size: 1.1em;
+    color: antiquewhite;
+}
+img{
+    height: 60px;
+    width: 60px;
+    border-radius: 50px;
+    border-color: aqua;
+}
+
+.del{
+    padding-left: 80px;
+    margin-top: -60px;
+}
+.days{
+    padding-left: 270px;
+    margin-top: -50px;
+    font-size: 17px;
+    font-weight: 100;
+}
+p{
+    padding-top: 7px;
+    font-weight: 500;
+    
+}
+.chat1{
+     padding-top: 20px;
+}
+.chat2{
+        padding-top: 60px;
+    
+}
+.chat3{
+        padding-top: 60px;
+}
+.chat4{
+    padding-top: 60px;
+}
+h4{
+    font: 1000;
+}
